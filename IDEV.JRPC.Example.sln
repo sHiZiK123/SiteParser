@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleServiceServer", "SimpleServiceServer\SimpleServiceServer.csproj", "{4AC1F841-0165-4A85-B7B8-1C647B74FB22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleServiceClient", "SimpleServiceClient\SimpleServiceClient.csproj", "{2DC862D7-DC42-4AD0-B4B6-8F51C84B3453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleServiceLibrary", "SimpleServiceLibrary\SimpleServiceLibrary.csproj", "{FB179706-112A-473E-89A8-989BC5E087E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC1F841-0165-4A85-B7B8-1C647B74FB22}.Debug|x64.ActiveCfg = Debug|x64
+		{4AC1F841-0165-4A85-B7B8-1C647B74FB22}.Debug|x64.Build.0 = Debug|x64
+		{4AC1F841-0165-4A85-B7B8-1C647B74FB22}.Release|x64.ActiveCfg = Release|x64
+		{4AC1F841-0165-4A85-B7B8-1C647B74FB22}.Release|x64.Build.0 = Release|x64
+		{2DC862D7-DC42-4AD0-B4B6-8F51C84B3453}.Debug|x64.ActiveCfg = Debug|x64
+		{2DC862D7-DC42-4AD0-B4B6-8F51C84B3453}.Debug|x64.Build.0 = Debug|x64
+		{2DC862D7-DC42-4AD0-B4B6-8F51C84B3453}.Release|x64.ActiveCfg = Release|x64
+		{2DC862D7-DC42-4AD0-B4B6-8F51C84B3453}.Release|x64.Build.0 = Release|x64
+		{FB179706-112A-473E-89A8-989BC5E087E6}.Debug|x64.ActiveCfg = Debug|x64
+		{FB179706-112A-473E-89A8-989BC5E087E6}.Debug|x64.Build.0 = Debug|x64
+		{FB179706-112A-473E-89A8-989BC5E087E6}.Release|x64.ActiveCfg = Release|x64
+		{FB179706-112A-473E-89A8-989BC5E087E6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
